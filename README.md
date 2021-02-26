@@ -1,4 +1,4 @@
-# ML-Templates
+# Machine Learning Templates
 ### ML Regression Template (RMSE):
   - Linear Regression (Backward Elimination)
   - Random Forest (Random Search)
