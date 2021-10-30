@@ -2,7 +2,7 @@
 ### EDA (Pandas) template:
   - Parse different file types in Pandas DataFrame
   - Inspect shape of DataFrame (rows, columns)
-  - Clean data (missing values, outliers, change types, renames columns)
+  - Clean data (missing values, outliers, change types, rename columns)
   - Describe data (number of entries, types, unique values, numerical statistics)
   - Plot data (scatter plot, histogram, box plot, distribution, correlation heatmap)
   - Compute correlation between variables
